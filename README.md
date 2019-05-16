@@ -1,0 +1,1 @@
+#Ovo je repo za stucnu praksu
