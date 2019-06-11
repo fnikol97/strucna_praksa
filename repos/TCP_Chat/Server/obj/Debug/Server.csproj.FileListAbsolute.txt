@@ -1,0 +1,7 @@
+C:\Users\filip\source\repos\TCP_Chat\Server\bin\Debug\Server.exe.config
+C:\Users\filip\source\repos\TCP_Chat\Server\bin\Debug\Server.exe
+C:\Users\filip\source\repos\TCP_Chat\Server\bin\Debug\Server.pdb
+C:\Users\filip\source\repos\TCP_Chat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\TCP_Chat\Server\obj\Debug\Server.exe
+C:\Users\filip\source\repos\TCP_Chat\Server\obj\Debug\Server.pdb
+C:\Users\filip\source\repos\TCP_Chat\Server\obj\Debug\Server.csprojAssemblyReference.cache

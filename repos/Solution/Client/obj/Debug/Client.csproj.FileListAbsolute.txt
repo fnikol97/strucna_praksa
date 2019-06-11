@@ -1,7 +1,0 @@
-C:\Users\filip\source\repos\Solution\Client\bin\Debug\Client.exe.config
-C:\Users\filip\source\repos\Solution\Client\bin\Debug\Client.exe
-C:\Users\filip\source\repos\Solution\Client\bin\Debug\Client.pdb
-C:\Users\filip\source\repos\Solution\Client\obj\Debug\Client.csprojAssemblyReference.cache
-C:\Users\filip\source\repos\Solution\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
-C:\Users\filip\source\repos\Solution\Client\obj\Debug\Client.exe
-C:\Users\filip\source\repos\Solution\Client\obj\Debug\Client.pdb
